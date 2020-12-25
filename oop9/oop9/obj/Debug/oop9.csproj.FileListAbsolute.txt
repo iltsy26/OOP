@@ -1,0 +1,18 @@
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop9\oop9\bin\Debug\oop9.exe.config
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop9\oop9\bin\Debug\oop9.exe
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop9\oop9\bin\Debug\oop9.pdb
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop9\oop9\obj\Debug\oop9.csprojAssemblyReference.cache
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop9\oop9\obj\Debug\oop9.Form1.resources
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop9\oop9\obj\Debug\oop9.Properties.Resources.resources
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop9\oop9\obj\Debug\oop9.csproj.GenerateResource.cache
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop9\oop9\obj\Debug\oop9.exe
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop9\oop9\obj\Debug\oop9.pdb
+C:\Users\Iliya\Downloads\oop9\oop9\bin\Debug\oop9.exe.config
+C:\Users\Iliya\Downloads\oop9\oop9\bin\Debug\oop9.exe
+C:\Users\Iliya\Downloads\oop9\oop9\bin\Debug\oop9.pdb
+C:\Users\Iliya\Downloads\oop9\oop9\obj\Debug\oop9.csprojAssemblyReference.cache
+C:\Users\Iliya\Downloads\oop9\oop9\obj\Debug\oop9.Form1.resources
+C:\Users\Iliya\Downloads\oop9\oop9\obj\Debug\oop9.Properties.Resources.resources
+C:\Users\Iliya\Downloads\oop9\oop9\obj\Debug\oop9.csproj.GenerateResource.cache
+C:\Users\Iliya\Downloads\oop9\oop9\obj\Debug\oop9.exe
+C:\Users\Iliya\Downloads\oop9\oop9\obj\Debug\oop9.pdb

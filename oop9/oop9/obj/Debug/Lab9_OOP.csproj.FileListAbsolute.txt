@@ -1,0 +1,9 @@
+C:\Users\Iliya\Downloads\oop9\oop9\bin\Debug\oop9.exe.config
+C:\Users\Iliya\Downloads\oop9\oop9\bin\Debug\oop9.exe
+C:\Users\Iliya\Downloads\oop9\oop9\bin\Debug\oop9.pdb
+C:\Users\Iliya\Downloads\oop9\oop9\obj\Debug\LAB9_OOP.Form1.resources
+C:\Users\Iliya\Downloads\oop9\oop9\obj\Debug\oop9.Properties.Resources.resources
+C:\Users\Iliya\Downloads\oop9\oop9\obj\Debug\Lab9_OOP.csproj.GenerateResource.cache
+C:\Users\Iliya\Downloads\oop9\oop9\obj\Debug\oop9.exe
+C:\Users\Iliya\Downloads\oop9\oop9\obj\Debug\oop9.pdb
+C:\Users\Iliya\Downloads\oop9\oop9\obj\Debug\Lab9_OOP.csprojAssemblyReference.cache
